@@ -2,7 +2,7 @@
 <h3 align="center">I am an aspiring software developer currently pursuing a Bachelor's degree in Computer Science.</h3>
 
 <!-- Corrected the typo "righ" to "right" and added inline styles for better control -->
-<img align="right" alt="coding" width="300" height="300" src="./pics/java-script.gif" style="max-width: 100%; height: auto; margin-left: 20px;">
+<img align="right" alt="coding" width="300" height="300" src="./pics/coding.svg" style="max-width: 100%; height: auto; margin-left: 20px;">
 
 - 🌱 I’m currently learning **Next.js**
 
