@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Anwar</h1>
 <h3 align="center">Aspiring Software Developer | Computer Science Student</h3>
 
-<img align="right" alt="coding" width="300" height="300" src="./pics/coding.svg" style="max-width: 100%; height: auto; margin-left: 20px;">
+<img align="right" alt="coding" width="200" height="200" src="./pics/coding.svg" style="max-width: 100%; height: auto; margin-left: 20px;">
 
 <p>
   🌱 I’m currently learning <strong>Next.js</strong><br>
