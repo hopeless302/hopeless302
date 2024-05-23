@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Anwar</h1>
 <h3 align="center">I am an aspiring software developer currently pursuing a Bachelor's degree in Computer Science.</h3>
- <img align="righ" alt="coding" width="400" height="400" src="./pics/java-script.gif" >
+ <img align="right" alt="coding" width="400" height="400" src="./pics/java-script.gif" >
  
 - 🌱 I’m currently learning **Next.js**
 
